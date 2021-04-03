@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm Pradeep, a passionate Blockchain developer and a R&D engineer from Toronto. My passion for innovation led me to learn Blockchain and I forked my career into Blockchain Development through a course at George Brown College, Toronto. I am also a volunteer at Bitcoin Bay maintaining the OPTN wallet. I try to partipate in Hackathons to learn new and exciting stuff in blockchain.
+Hi, I'm Pradeep, a passionate Blockchain developer and a R&D engineer from Toronto. My passion for innovation led me to learn Blockchain and I forked my career into Blockchain Development through a course at George Brown College, Toronto. I am also a volunteer at Bitcoin Bay maintaining the OPTN wallet. I try to partipate in Hackathons to explore new and exciting stuff in blockchain.
 
 Prior to this blockchain Fork, I was an avid and accomplished researcher in the field of Smart Manufacturing. I also have a PhD from Nanyang Technological University, Singapore and worked with Rolls-Royce - Singapore, Schlumberger - Abu Dhabi and IIT-Madras, India
   
